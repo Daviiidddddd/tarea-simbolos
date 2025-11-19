@@ -1,5 +1,6 @@
-# sdt_tac.py
-# Requiere: pip install ply
+# David Castellanos
+# Tarea lenguajes
+# Tercer corte
 """
 Script ejemplo que implementa:
  - ETDS (acciones semánticas integradas en el parser)
